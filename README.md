@@ -298,6 +298,7 @@ This project is **fully compatible with Netlify** static hosting:
    - `VITE_CONTRACT_ADDRESS=0x0877c473BCe3aAEa4705AB5C3e24d7b0f630C956`
    - `VITE_ALCHEMY_API_KEY=your_alchemy_key`
    - `VITE_MONAD_RPC=https://testnet-rpc.monad.xyz/`
+   - `ENVIO_API_KEY=your_envio_key`
 
 3. **Build settings**:
    - Build command: `npm run build`
